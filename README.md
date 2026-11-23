@@ -20,6 +20,7 @@ Security rules, emulator tests, this README and the APK release are shared work.
 | Item | Link / location | Status |
 | --- | --- | --- |
 | Proposal | `docs/FocusNFlow_Proposal.pdf` | Submitted Nov 22, 2026 |
+| Signed team acknowledgment | `docs/FocusNFlow_Team_Acknowledgment.pdf` (replace with the signed scan) | Nov 22, 2026 |
 | Presentation deck (PowerPoint) | `docs/FocusNFlow_SakethSai_Deck.pptx` | Due Dec 13, 2026 |
 | Tested APK | GitHub Release `v1.0-final` | Due Dec 13, 2026 |
 | Demo video (20–25 min) | _Link added before submission_ | Due Dec 13, 2026 |
