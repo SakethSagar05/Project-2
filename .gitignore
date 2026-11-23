@@ -1,0 +1,52 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+.idea/
+.vscode/
+*.log
+coverage/
+
+# Android
+android/.gradle/
+android/captures/
+android/local.properties
+android/app/debug
+android/app/profile
+android/app/release
+*.jks
+*.keystore
+key.properties
+
+# iOS / macOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+**/xcuserdata/
+.DS_Store
+
+# Firebase — never commit project config or credentials
+google-services.json
+GoogleService-Info.plist
+lib/firebase_options.dart
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+.firebase/
+*service-account*.json
+*-adminsdk-*.json
+
+# Cloud Functions
+functions/node_modules/
+functions/lib/
+
+# Environment files
+.env
+.env.*
+!.env.example
